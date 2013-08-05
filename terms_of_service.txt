@@ -1,0 +1,22 @@
+Online RSS Reader
+<br />
+Terms of Service
+<p>
+Last Modified: July 25, 2013
+</p>
+<p>
+Thank you for using Online RSS Reader! These terms of service (the “Terms”) govern your access to and use of Online RSS Reader (“we” or “our”) websites and services (the “Services”), so please carefully read them before using the Services.
+<br />
+By using the Services you agree to be bound by these Terms.
+</p>
+<p>
+You are solely responsible for your conduct, the content of your subscriptions, and your communications with others while using the Services. 
+<br />
+You are responsible for safeguarding the password that you use to access the Services and you agree not to disclose your password to any third party. You are responsible for any activity using your account, whether or not you authorized that activity. You should immediately notify us of any unauthorized use of your account. 
+</p>
+<p>
+All the contents are fetched from third party RSS sources, we are not responsible for the accuracy, completeness, appropriateness, or legality of the contents.
+</p>
+<p>
+Contact: fred.wulei@gmail.com
+</p>

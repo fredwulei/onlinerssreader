@@ -1,0 +1,282 @@
+body
+{
+    margin: 0px;
+}
+input[type=button]
+{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+#wraper
+{
+    position: fixed;
+    width: inherit;
+	background:#EEE;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+#abovemask
+{
+	width:inherit;
+	height:300px;
+	background:#CCC;
+    border-bottom: solid 1px #999;
+    box-shadow: 0px 1px 10px #333;
+    z-index: 10;
+    position: relative;
+}
+#belowmask
+{
+    width:inherit;
+    height:350px;
+    background:#CCC;
+    z-index: 10;
+    bottom: 0;
+    position: relative;
+}
+
+#wrapbox
+{
+    padding: 10px;
+    width: 300px;
+    position: absolute;
+    top:40px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    border: solid 1px #999;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    height: 150px;
+}
+.logintext
+{
+    font-size: 18px;
+    font-family: Georgia,SimHei;
+    color: #666;
+    padding: 0 10px;
+    text-align: left;
+    display: inline-block;
+}
+.loginformbutton
+{
+    border: solid 1px #999;
+    font-family: Georgia;
+    font-size: 20px;
+    background: none;
+    color: #666;
+    margin: 0 10px;
+}
+.loginformbutton:hover
+{
+    background: #333;
+    border-color: #333;
+    color: #ccc;
+}
+#logininfo
+{
+    font-family: Georgia;
+    font-size: 20px;
+    color: #666;
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 280px;
+    text-align: center;
+    width: 320px;
+}
+.loading {
+    width: 40px;
+    height: 40px;
+    background-image: url(../spinning.png);
+    background-repeat: repeat-y;
+    display: none;
+}
+#loading1 {
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    top: 220px;
+}
+#loading2 {
+    left: 10px;
+    position: absolute;
+    bottom: 5px;
+}
+#webinfo
+{
+    position: absolute;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 15px;
+    font-size: 12px;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+    width: 600px;
+    color: #666;
+    font-family: Verdana;
+    text-shadow: 1px 1px 0px #eee;
+}
+#titlediv
+{
+    position: absolute;
+    bottom: 0px;
+    margin:  0 auto;
+    left: 0;
+    right: 0;
+    text-shadow: 0px 0px 4px #333;
+    font-family: Georgia;
+    font-size: 40px;
+    text-align: center;
+    height:50px;
+}
+#mask
+{
+    width: 2000px;
+    height: 2000px;
+    background: rgba(0,0,0,0.6);
+    /*background: rgba(255,255,255,0.6);*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 12;
+}
+#slogan
+{
+    top:5px;
+    font-size: 18px;
+    font-family: Verdana, cursive;
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    color: #888;
+    height: 30px;
+    text-align: center;
+}
+#registerbox
+{
+    display: none;
+}
+#signupbar
+{
+    border: 1px solid #999999;
+    color: #666666;
+    font-family: Georgia;
+    font-size: 20px;
+}
+.smalltext
+{
+    font-size: 12px;
+}
+#loginbox table 
+{
+    text-align: left;
+}
+#registerbox table 
+{
+    text-align: left;
+}
+.centeralign
+{
+    text-align: center;
+}
+.rightalign
+{
+    text-align: right;
+}
+.smalltr
+{
+    font-size: 12px;
+    color: #666;
+    line-height: 20px;
+}
+#terms
+{
+    cursor: pointer;
+    text-decoration: underline;
+}
+#termsbox
+{
+    background: #eee;
+    color: #666666;
+    display: block;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 20px;
+    height: 300px;
+    left: 0;
+    margin: 0 auto;
+    overflow: auto;
+    position: fixed;
+    right: 0;
+    top: 25%;
+    width: 600px;
+    z-index: 99;
+    display: none;
+    padding: 10px;
+}
+#langswitch
+{
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    padding: 6px 4px;
+    border:  solid 1px #666;
+    color: #666;
+    box-shadow: 1px 1px 0 #eee;
+}
+
+#langswitch span
+{
+    padding: 3px;
+    border:  solid 1px #999;
+    box-shadow: 1px 1px 0 #eee;
+    font-size: 12px;
+}
+#langswitch span:hover
+{
+    cursor: pointer;
+    border:  solid 1px #000;
+    background: #333;
+    color: #ccc;
+    box-shadow: 0 0 2px #000 inset;
+}
+.langswitch-on
+{
+    border:  solid 1px #000 !important;
+    background: #333;
+    color: #ccc;
+    box-shadow: 0 0 2px #000 inset;
+}
+
+
+/* button styles  */
+.grey-button
+{
+    background: none repeat scroll 0 0 #999999;
+    border: 1px solid #666666;
+    color: #333333;
+    font-family: Georgia;
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 0 20px;
+}
+.grey-button:hover
+{
+    background: #333;
+    color: #ccc;
+    border: 1px solid #000;
+}
+
+.grey-icon-button
+{
+    height: 20px;
+    width: 20px;
+    background-image: url("../pic.png");
+    display: inline-block;
+}

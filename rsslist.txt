@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+ブック・アサヒ・コム　新着記事
+http://rss.asahi.com/rss/asahi/book.rdf
+朝日新聞社の書評サイト、「ブック・アサヒ・コム」の新着記事のRSSです
+
+
+
+
+Latest TSC Headlines
+http://feeds.thestreet.com/tsc/feeds/rss/latest-stories
+Check out the latest headlines from TheStreet.com network.
+
+
+
+News
+
+CNN.com - World
+http://rss.cnn.com/rss/edition_world.rss
+CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.
+
+Yahoo!ニュース・トピックス - トップ
+http://rss.dailynews.yahoo.co.jp/fc/rss.xml
+Yahoo! JAPANのニュース・トピックスで取り上げている最新の見出しを提供しています。
+
+资讯频道_凤凰网
+http://news.ifeng.com/rss/index.xml
+资讯频道_凤凰网
+
+南方周末-热点新闻
+http://www.infzm.com/rss/home/rss2.0.xml
+首页热点新闻
+
+联合早报网 zaobao.com - 社论言论
+http://zaobao.feedsportal.com/c/34003/f/616934/index.rss
+联合早报网是海外最重要的权威新闻网站，以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。
+
+
+---------------------------------------------------------------------------
+Blog
+
+Matrix67
+http://feed.feedsky.com/matrix67
+50% Informatics, 50% Mathematics, and 50% Imagination
+
+
+---------------------------------------------------------------------------
+Science & Tech
+
+Fast Company
+http://feeds.fastcompany.com/fastcompany/headlines
+Fast Company is the world's leading progressive business media brand, with a unique editorial focus on innovation in technology, ethonomics (ethical economics), leadership, and design.
+
+Engadget 中国版
+http://cn.engadget.com/rss.xml
+Engadget 中国版
+
+cnBeta.COM业界资讯
+http://cnbeta.feedsportal.com/c/34306/f/624776/index.rss
+cnBeta.COM - 简明IT新闻,网友媒体与言论平台
+
+36氪 | 关注互联网创业
+http://www.36kr.com/feed/
+36氪 | 关注互联网创业最新文章
+
+果壳网 guokr.com
+http://www.guokr.com/rss/
+果壳网是一个泛科技主题网站，提供负责任、有智趣、贴近生活的内容，你可以在这里阅读、分享、交流、提问。果壳网致力于让科技兴趣成为人们文化生活和娱乐生活的重要元素。
+
+---------------------------------------------------------------------------
+Finance
+
+Forbes.com: Most popular stories
+http://www.forbes.com/most-popular/feed/
+Most popular stories from Forbes.com
+
+WSJ.com: Opinion
+http://online.wsj.com/xml/rss/3_7041.xml
+Opinion
+
+Business & Finance News - Yahoo! Finance
+http://finance.yahoo.com/news/?format=rss
+The latest in financial news and the latest breaking stories in business, personal finance news. The latest in-depth stories including market coverage from the US and around the World.
+
+The Economist: Business
+http://www.economist.com/feeds/print-sections/77/business.xml
+Business
+
+FT中文网_英国《金融时报》(Financial Times)
+http://www.ftchinese.com/rss/feed
+FT中文网每日新闻
+
+FT中文网一周十大热门文章
+http://www.ftchinese.com/rss/hotstoryby7day
+FT中文网每日新闻
+
+---------------------------------------------------------------------------
+Sports
+
+ESPN.com
+http://sports.espn.go.com/espn/rss/news
+Latest news from ESPN.com
+
+ESPNsoccernet
+http://espnfc.com/rss/news
+Latest Soccer news from ESPNsoccernet
+
+---------------------------------------------------------------------------
+Culture
+
+
+南方人物周刊 Feed
+http://www.nfpeople.com/rss.php
+《南方人物周刊》是南方报业传媒集团主管、南方周末出口的综合类人物周刊。它以“记录我们的命运”为办刊宗旨，以“平等、宽容、人道”为理念，关注那些“对中国的进步和我们的生活产生重大影响的人、在与命运的抗争中彰显人类的向善力量和深邃驳杀的人性魅力的人”，为历史留存一份底稿，为读者奉上一席精神的盛宴。
+
+
+「返场」EARDRUM MUSIC
+http://www.eardrummusic.com/feed/
+欧美音乐风向标
+
+虾米音乐每日精选
+http://www.xiami.com/collect/feed
+虾米网热力推荐优秀音乐精选集
+
+知乎每日精选
+http://www.zhihu.com/rss
+一个真实的网络问答社区，帮助你寻找答案，分享知识
+
+London Review of Books
+http://cdn.lrb.co.uk/feeds/lrb
+Literary review publishing essay-length book reviews and topical articles on politics, literature, history, philosophy, science and the arts by leading writers and thinkers
+
+Wash Post Books
+http://www.washingtonpost.com/wp-dyn/rss/artsandliving/books/index.xml
+Search Washington,DC area books events,reviews and bookstores from the Washington Post. Features DC,Virginia and Maryland entertainment listings for bookstores andand and books events.
+
+豆瓣最受欢迎的影评
+http://www.douban.com/feed/review/movie
+豆瓣成员投票选出的最佳影评
+
+豆瓣最受欢迎的书评
+http://www.douban.com/feed/review/book
+豆瓣成员投票选出的最佳书评

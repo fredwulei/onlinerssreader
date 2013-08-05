@@ -1,0 +1,233 @@
+#newsourcepanel
+{
+	background: none repeat scroll 0 0 #999999;
+	box-shadow: 0 0 10px #000;
+	height: 400px;
+	position: fixed;
+	top: 1000px;
+	width: 900px;
+	z-index: 20;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+#newsourcepaneltitle
+{
+	background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
+    font-family: Georgia;
+    font-size: 30px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+#newsourcepanelbody
+{
+	font-family: Georgia;
+    font-size: 20px;
+    padding: 10px;
+}
+#newsourcepanelrec
+{
+	border: solid 1px #000;
+}
+#newsourcepanelrecnavi
+{
+	background: #bbb;
+	text-align: left;
+    padding: 0 5px;
+}
+#newsourcepanelrecbody
+{
+	height: 200px;
+	overflow: auto;
+}
+#newsourcepaneldiy
+{
+    margin: 10px 0px;
+}
+#newsourcepanelbtnbar
+{
+    text-align: center;
+}
+.reccata
+{
+	border: 1px solid #999999;
+    display: inline-block;
+    font-size: 18px;
+    margin: 5px 2px;
+    padding: 4px 20px;
+    cursor: pointer;
+}
+.reccata:hover
+{
+	background: #333;
+	color: #fff;
+	border: 1px solid #bbb;
+	box-shadow: 0px 0px 5px #000 inset;
+}
+.reccata-on
+{
+	background: #333;
+	color: #fff;
+	border: 1px solid #bbb;
+	box-shadow: 0px 0px 5px #000 inset;
+}
+.recitem
+{
+	background: none repeat scroll 0 0 #333333;
+    border-bottom: 1px solid #000000;
+    color: #999999;
+    font-size: 18px;
+    height: 50px;
+    padding: 4px 10px;
+    position: relative;
+    cursor: pointer;
+}
+.recitem-on .recname
+{
+    border-left: 10px solid #000;
+}
+.recitem:hover
+{
+	background: #ccc;
+}
+.recitem:hover > .recname
+{
+	border-left: 10px solid #000;
+	color: #000;
+}
+.recitem:hover > .recinfo
+{
+	border-left: 7px solid #666;
+    color: #666;
+}
+.recname
+{
+    border-left: 10px solid #fff;
+    color: #fff;
+    font-size: 22px;
+    height: 22px;
+    padding: 4px 10px;
+    font-family: Georgia,"SimHei";
+}
+.recitem:hover > .reclink
+{
+    color: #666;
+}
+.reclink
+{
+    bottom: 0;
+    font-family: Verdana;
+    font-size: 12px;
+    height: 20px;
+    left: 10px;
+    position: absolute;
+    width: 380px;
+    overflow: hidden;
+    word-break:break-all;
+}
+.recitem:hover > .reclink > .langicon
+{
+    background: #333;
+    color: #ccc;
+}
+
+.langicon
+{
+    background: none repeat scroll 0 0 #999999;
+    color: #333333;
+    display: inline-block;
+    font-size: 10px;
+    height: 15px;
+    line-height: 15px;
+    margin-right: 3px;
+    text-align: center;
+    width: 15px;
+    border-radius: 4px;
+}
+.recinfo
+{
+	border-left: 7px solid #999999;
+    font-size: 14px;
+    height: 45px;
+    padding: 0 10px;
+    position: absolute;
+    right: 40px;
+    top: 7px;
+    width: 400px;
+    line-height: 15px;
+    overflow: hidden;
+}
+.newsourcebtn
+{
+    background: none repeat scroll 0 0 #999999;
+    border: 1px solid #666666;
+    color: #333333;
+    font-family: Georgia;
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 0 20px;
+}
+.newsourcebtn:hover
+{
+    background: #333;
+    color: #ccc;
+    border: 1px solid #000;
+}
+.newsourceinput
+{
+    border: 1px solid #666666;
+    font-size: 16px;
+    margin: 0 10px;
+    padding-left: 5px;
+}
+#newsource
+{
+   
+    width: 450px;
+}
+#newtitle
+{
+    width: 180px;
+    display: none;
+}
+.hinttext
+{
+    color: #999;
+    font-style: italic;
+}
+#sourceicon
+{
+    height: 14px;
+    width: 14px;
+    background-image: url("../pic.png");
+    display: inline-block;
+    visibility: hidden;
+}
+.tickicon
+{
+    background-position: -4px 28px;
+}
+.crossicon
+{
+    background-position: -28px 28px;
+}
+
+#searchsourcediv
+{
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    width: 200px;
+    margin: 4px;
+    padding: 4px;
+}
+#searchsourcetext
+{
+    width: 150px;
+}
+#searchsourcebtn
+{
+    display: inline-block;
+}

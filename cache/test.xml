@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss>
+	<site id="1">
+		<title>site1</title>
+	</site>
+	<site id="2">
+		<title>site2</title>
+	</site>
+</rss>

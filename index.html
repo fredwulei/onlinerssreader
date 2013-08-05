@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Online RSS Reader</title>
+<script src="jquery.min.js" ></script>
+<script src="scripts/login.js"></script>
+<script src="language/en.js"></script>
+<link href="favicon.ico" type="image/x-icon" rel=icon>
+<link rel="stylesheet" type="text/css" href="css/login.css">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel="stylesheet" type="text/css" href="css/readingpanel.css">
+<link rel="stylesheet" type="text/css" href="css/newsource.css">
+</head>
+<body>
+<div id="wraper">
+	<div id="abovemask">
+        <div id="loading2" class="loading"></div>
+        
+        <div id="titlediv">
+    	   <span id="appname">Online RSS Reader</span><span class="smalltext">alpha</span>
+        </div>
+        
+    </div>
+    <div id="belowmask">
+        <div id="slogan">
+            delivering efficiently
+        </div>
+        <div id="wrapbox">            
+            <div id="loginbox">
+                <form id="loginform" name="loginform">
+                    <table>
+                        <tr>
+                            <td width="120px"><span class="logintext username">username</span></td>
+                            <td><input type="textfield" id="username" name="username" class="loginforminput"/></td>
+                        </tr>
+                        <tr>
+                            <td><span class="logintext password">password</span></td>
+                            <td><input type="password" id="password" name="password" class="loginforminput"/></td>
+                        </tr>
+                        <tr class="centeralign smalltr">
+                            <td colspan="2">
+                                <input id="autologincheck" type="checkbox" /><span id="autologinspan">remember me for a week</span>
+                            </td>
+                        </tr>
+                        <tr class="centeralign">
+                            <td colspan="2">
+                                <input id="enterbtn" type="button" value="sign in" class="loginformbutton"/>
+                                <input id="signupbtn" type="button" value="sign up" class="loginformbutton"/>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+            <div id="registerbox">
+                <div id="signupbar">Sign up Now!</div>
+                <form id="registerform" name="loginform">
+                    <table>
+                        <tr>
+                            <td width="180px"><span class="logintext username">username</span></td>
+                            <td><span class="logintext"><input type="textfield" id="registerusername" name="username" class="loginforminput"/></span></td>
+                            <td width="180px"><span class="logintext nickname">nickname</span></td>
+                            <td><span class="logintext"><input type="textfield" id="nickname" name="nickname" class="loginforminput"/></span></td>
+                        </tr>
+                        <tr>
+                            <td><span class="logintext password">password</span></td>
+                            <td><span class="logintext"><input type="password" id="registerpassword" name="password" class="loginforminput"/></span></td>
+                            <td><span class="logintext confirm">confirm</span></td>
+                            <td><span class="logintext"><input type="password" id="confirm" name="confirm" class="loginforminput"/></span></td>
+                        </tr>
+                        <tr class="centeralign smalltr">
+                            <td colspan="4">
+                                 <span id="termtextbefore">*By signing up for an account, you’re agreeing to our </span><span id="terms">Terms of Service</span><span id="termtextafter">.</span>
+                            </td>
+                        </tr>
+                        <tr class="centeralign">
+                            <td colspan="4">
+                                <input id="submitbtn" type="button" value="submit" class="loginformbutton"/>
+                                <input id="backbtn" type="button" value="back" class="loginformbutton"/>
+                            </td>
+                        </tr>
+                        
+                    </table>
+                </form>
+            </div>
+        </div>
+        <div id="loading1" class="loading"></div>
+        <div id="logininfo">
+        </div>
+        <div id="langswitch">
+            <span id="englishswitch" class="langswitch-on">English</span>
+            <span id="chineseswitch">中文</span>
+            <span id="japaneseswitch">日本語</span>
+        </div>
+
+        <div id="webinfo">
+            This application is licensed under a CC BY-NC 3.0 License.
+        </div>
+    </div>
+</div>
+</body>
+</html>

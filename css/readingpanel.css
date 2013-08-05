@@ -1,0 +1,132 @@
+#readingpanel
+{
+    position: fixed;
+    top: -600px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    z-index: 8;
+    height: 590px;
+    width: inherit;
+}
+#readingpaneltitlebar
+{
+    background: #999;
+    border-bottom: 2px solid #333333;
+    color: #FFFFFF;
+    font-size: 40px;
+    height: 60px;
+    line-height: 70px;
+    padding: 0 10px;
+    text-align: center;
+    text-shadow: 0 0 10px #000000;
+    position: relative;
+}
+#readingpanelbackbtn
+{
+    border: 1px solid #666;
+    color: #666666;
+    font-family: Georgia;
+    font-size: 20px;
+    left: 10px;
+    position: absolute;
+    top: 20px;
+    background: #eee;
+}
+#readingpanelbackbtn:hover
+{
+    background: #333;
+    border-color: #333;
+    color: #ccc;
+}
+#readingpanelbody
+{
+    /*
+    float: left;
+    */
+    position: relative;
+}
+#readingpanelnavi
+{
+    position: absolute;
+    top:0;
+    left: 0;
+    height: 548px;
+    color: #333;
+    width: 250px;
+    /*text-shadow: -1px -1px 0 #000000;*/
+    overflow: auto;
+    background: url("../linen30.png");
+    box-shadow: -5px 0 5px #999 inset;
+}
+.readingpanelnaviitem
+{
+    border-bottom: 1px dotted #666;
+    /*border-top: 1px solid #999;*/
+    font-size: 15px;
+    padding: 15px 5px;
+    cursor: pointer;
+}
+.readingpanelnaviitem:hover
+{
+    /*background: #222;*/
+    /*border-top: 1px solid #000;*/
+    color: #fff;
+    background: #555;
+}
+#readingpanelmain
+{
+    position: absolute;
+    height: 548px;
+    width: 930px;
+    top: 0;
+    left: 250px;
+    font-family: "Georgia","SimHei";
+    font-size: 20px;
+    line-height: 30px;
+    overflow-y: auto;
+    background: #ddd;
+}
+#readingpanelextrainfo
+{
+    background: none repeat scroll 0 0 #333333;
+    border: 1px solid #000000;
+    color: #999999;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+    position: fixed;
+    width: inherit;
+    font-family: Verdana;
+    word-break: break-all;
+    overflow: hidden;
+}
+#readingpanellink
+{
+    color: #999;
+    padding: 0 10px;
+}
+#readingpanellink:visited
+{
+    color: #666;
+}
+#readingpanelcontent
+{
+    padding:  0 50px;
+}
+#readingpanelcontent a
+{
+    color: #666;
+}
+#commentdiv
+{
+    position: fixed;
+    background: red;
+}
+blockquote
+{
+    border-left: 3px solid #333333;
+    font-size: 16px;
+    padding-left: 5px;
+    line-height: 18px;
+}
